@@ -1,0 +1,66 @@
+{
+  "editor.formatOnSave": true,
+  // turn it off for JS and JSX, we will do this via eslint
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "[javascriptreact]": {
+    "editor.formatOnSave": true
+  },
+  // tell the ESLint plugin to run on save
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "cSpell.ignoreWords": [
+    "aaaaadk",
+    "ada",
+    "api",
+    "ax",
+    "b",
+    "berklee",
+    "bkf",
+    "c",
+    "ce",
+    "chrisharley",
+    "chrisharleydev",
+    "contact",
+    "d",
+    "e",
+    "endpoint",
+    "form",
+    "formium",
+    "fx",
+    "g",
+    "gatsby",
+    "ghp",
+    "github",
+    "gyigszlszs",
+    "https",
+    "io",
+    "j",
+    "key",
+    "lc",
+    "linkedin",
+    "lnu",
+    "m",
+    "noopener",
+    "nprogress",
+    "o",
+    "oncfr",
+    "portfolio",
+    "recaptcha",
+    "sgmc",
+    "smakosh",
+    "submit",
+    "token",
+    "u",
+    "vnk",
+    "w",
+    "ws",
+    "xfsb",
+    "xhp",
+    "xn",
+    "xrs",
+    "xu"
+  ]
+}
