@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 export const Button = styled.button`
   cursor: pointer;
@@ -14,6 +14,13 @@ export const Button = styled.button`
   user-select: none;
   color: #fff;
   background: #0074d9;
+  border: 1px solid transparent;
+
+  &:hover {
+    background: #fff;
+    border: 1px solid #0074d9;
+    color: #0074d9;
+  }
 
   &:focus {
     outline: none;
@@ -27,5 +34,10 @@ export const Button = styled.button`
     secondary &&
     `
 		background: #001F3F;
+
+    &:hover {
+      border: 1px solid #001F3F;
+      color: #001F3F;
+    }
 	`}
 `;
