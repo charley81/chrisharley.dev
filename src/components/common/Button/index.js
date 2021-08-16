@@ -13,13 +13,13 @@ export const Button = styled.button`
   -ms-user-select: none;
   user-select: none;
   color: #fff;
-  background: #0074d9;
+  background: #6b63ff;
   border: 1px solid transparent;
 
   &:hover {
     background: #fff;
-    border: 1px solid #0074d9;
-    color: #0074d9;
+    border: 1px solid #6b63ff;
+    color: #6b63ff;
   }
 
   &:focus {
@@ -33,11 +33,13 @@ export const Button = styled.button`
   ${({ secondary }) =>
     secondary &&
     `
-		background: #001F3F;
+		background: transparent;
+    border: 1px solid #6b63ff;
+    color: #6b63ff;
 
     &:hover {
-      border: 1px solid #001F3F;
-      color: #001F3F;
+      background: #6b63ff;
+      color: #fff;
     }
 	`}
 `;

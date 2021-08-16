@@ -17,20 +17,17 @@ export const Skills = () => {
         <Details theme={theme}>
           <h1>More about me</h1>
           <p>
-            Hi, my name is Chris! I’m a former US Army paratrooper and I love to
-            design and build beautiful, fast, and modern websites with the
-            JAMstack.
+            I love designing and building beautiful, fast, and modern websites
+            and applications with the JAMstack. When I’m not designing or
+            building something for the web (bummer), you’ll find me making
+            music. I dabble with guitar, piano, and love producing and
+            engineering all kinds of music like hip-hop, trap, drum-n-bass,
+            country and metal. Other than that I love cooking and always down
+            for a bar-b-q and come cold refreshing beverages.
           </p>
           <p>
-            {" "}
-            When I’m not designing or building something for the web I’m usually
-            making music. I have a Bachelor’s degree from Berklee College of
-            Music and enjoy the audio engineering side of things. I also play
-            the piano and guitar.
-          </p>
-          <p>
-            Other than that I really enjoy cooking and enjoying a nice
-            refreshing beverage.
+            Fun facts: Former US Army Paratrooper (Airborne), Berklee College of
+            Music Graduate
           </p>
           <Button as={AnchorLink} href="#contact">
             Hire me
