@@ -20,10 +20,10 @@ export const Skills = () => {
             I love designing and building beautiful, fast, and modern websites
             and applications with the JAMstack. When I’m not designing or
             building something for the web (bummer), you’ll find me making
-            music. I dabble with guitar, piano, and love producing and
-            engineering all kinds of music like hip-hop, trap, drum-n-bass,
-            country and metal. Other than that I love cooking and always down
-            for a bar-b-q and come cold refreshing beverages.
+            music. I dabble with guitar, piano, and love producing and recording
+            all kinds of music like hip-hop, trap, drum-n-bass, country and
+            metal. Other than that I love cooking and always down for a bar-b-q
+            and some cold refreshing beverages.
           </p>
           <p>
             Fun facts: Former US Army Paratrooper (Airborne), Berklee College of
