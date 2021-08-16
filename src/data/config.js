@@ -6,7 +6,7 @@ module.exports = {
   legalName: "Chris Harley",
   defaultDescription: "I’m Chris and I’m a JAMstack engineer!",
   socialLinks: {
-    twitter: "https://twitter.com/chrisharley_81",
+    twitter: "https://twitter.com/chrisharley81",
     github: "https://github.com/charley81",
     linkedin: "https://www.linkedin.com/in/charley81/",
   },
@@ -14,8 +14,8 @@ module.exports = {
   themeColor: "#6b63ff",
   backgroundColor: "#6b63ff",
   social: {
-    linkedin: "chrisharley_81",
-    twitter: "@chrisharley_81",
+    linkedin: "charley81",
+    twitter: "@chrisharley81",
   },
   contact: {
     email: "hello@chrisharley.dev",
